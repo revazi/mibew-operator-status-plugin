@@ -1,0 +1,15 @@
+{
+    "name": "zakala/OperatorStatus",
+    "description": "Displays Operator status",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Revaz Zakala",
+            "email": "revaz.zakalashvili@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"OperatorStatus\\Mibew\\Plugin\\OperatorStatus\\": ""}
+    },
+    "target-dir": "OperatorStatus/Mibew/Plugin/OperatorStatus"
+}

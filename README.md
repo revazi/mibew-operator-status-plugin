@@ -1,2 +1,2 @@
 # mibew-operator-status-plugin
-Trivial plugin for mibew messenger 
+Plugin adds one route to get operator status

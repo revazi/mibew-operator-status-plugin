@@ -1,0 +1,5 @@
+matsne_operator_status:
+    path: /operator_status
+    defaults:
+        _controller: OpearatorStatus\Mibew\Plugin\OperatorStatus\Controller\OperatorStatusController::indexAction
+        name: status
